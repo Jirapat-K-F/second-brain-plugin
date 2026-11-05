@@ -1,0 +1,14 @@
+{
+  "name": "second-brain-plugin",
+  "owner": { "name": "Jirapat" },
+  "metadata": {
+    "description": "Personal marketplace for my Claude + Obsidian second brain."
+  },
+  "plugins": [
+    {
+      "name": "second-brain",
+      "source": "./plugins/second-brain",
+      "description": "Skills for my Obsidian second brain (D:\\MySecondBrain): session logging, research with memory, experiments and the weekly vault review."
+    }
+  ]
+}
