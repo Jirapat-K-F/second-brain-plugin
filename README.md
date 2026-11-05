@@ -1,6 +1,6 @@
 # second-brain-plugin
 
-Private Claude plugin marketplace for my Obsidian second brain (`D:\MySecondBrain`).
+Public Claude plugin marketplace (skills only — no notes) for my Obsidian second brain (`D:\MySecondBrain`).
 This folder is `80-Skills/` inside the vault and is its own git repo.
 
 | Skill | What it does |
