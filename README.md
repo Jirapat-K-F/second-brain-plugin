@@ -9,6 +9,7 @@ This folder is `80-Skills/` inside the vault and is its own git repo.
 | `second-brain:research` | checks the vault first, then saves sourced research |
 | `second-brain:new-experiment` | captures and tracks things to try |
 | `second-brain:weekly-review` | weekly vault health check with safe fixes |
+| `second-brain:youtube-short-reviewer` | judges a YouTube Short like a viewer and scores it 0-100 (Grounded Retention Score), every point backed by evidence |
 
 ## Change a skill
 1. Edit `plugins/second-brain/skills/<skill>/SKILL.md` (in Obsidian or any editor).
