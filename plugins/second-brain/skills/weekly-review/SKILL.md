@@ -33,6 +33,9 @@ Never: delete notes, rewrite note bodies, change `status`/`verdict`, rename file
 broken links with zero or several candidates, orphans, bad file names, notes tagged `work` outside `50-Work/`, inbox items older than 7 days, experiments `trying` for more than 14 days, ideas older than 60 days, session stubs, research `current` but not updated for 180+ days, invalid types or type/folder mismatches.
 For each, give a concrete suggested action (e.g. "link it from [[robotaxi-capstone]]", "mark dropped?", "fill in from your memory of that session").
 
+## 3b. Episode stats
+If a วิทย์ของของใช้ episode check point (48h / 7d / 28d) is due in the project note `40-Projects/science-of-everyday-things.md` → `## Posted episodes`, run `second-brain:update-stats` (personal only; skip in a scheduled run if the laptop or Buffer isn't reachable, and list it under "needs you").
+
 ## 4. Write the reports
 Week label = ISO week, e.g. `2026-W45` (Bangkok time).
 - **Personal report** → `90-System/Reviews/2026-W45.md`. Must not name or describe any `50-Work/` note — just "N work items, see the work report".

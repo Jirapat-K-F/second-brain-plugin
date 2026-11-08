@@ -1,7 +1,7 @@
 {
   "name": "second-brain",
-  "version": "1.2.0",
-  "description": "Skills for my Obsidian second brain (D:\\MySecondBrain): log-session, research, new-experiment, weekly-review, youtube-short-reviewer, pick-topics, write-episode and plan-episode.",
+  "version": "1.3.0",
+  "description": "Skills for my Obsidian second brain (D:\\MySecondBrain): log-session, research, new-experiment, weekly-review, youtube-short-reviewer, pick-topics, write-episode, plan-episode and update-stats.",
   "author": {
     "name": "Jirapat"
   }
