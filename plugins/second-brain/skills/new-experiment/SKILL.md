@@ -1,5 +1,6 @@
 ---
 name: new-experiment
+model: haiku
 description: Capture or update a personal experiment in the user's Second Brain vault (D:\MySecondBrain) - something they want to try, like a YouTube video idea, a tool, a coding trick, a habit or a workflow. Use when the user shares a link or idea "to try later", types /new-experiment, or says they started, finished or gave up on something they were trying.
 ---
 

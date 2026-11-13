@@ -1,5 +1,6 @@
 ---
 name: research
+model: sonnet
 description: Research any topic using the user's Second Brain vault (D:\MySecondBrain) as memory - check existing research notes first, research only what is missing or stale, then save or update a sourced research note. Use whenever the user asks to research, look up, compare, investigate or find out about something, or asks what they already know about a topic.
 ---
 

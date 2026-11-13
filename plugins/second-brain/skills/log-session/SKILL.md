@@ -1,5 +1,6 @@
 ---
 name: log-session
+model: haiku
 description: Write or update the session log note in the user's Second Brain Obsidian vault (D:\MySecondBrain). Use at the end of any session where real work happened (files made or changed, research done, a decision or plan settled), or when the user types /log-session or /second-brain:log-session or asks to log, record or save this session.
 ---
 

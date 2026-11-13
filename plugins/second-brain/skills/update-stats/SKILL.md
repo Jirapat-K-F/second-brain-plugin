@@ -1,5 +1,6 @@
 ---
 name: update-stats
+model: haiku
 description: Pull the real numbers of posted วิทย์ของของใช้ episodes from every platform (YouTube Analytics API, Buffer for TikTok/Instagram, the user's screenshots for Facebook) at the 48 h / 7 day / 28 day check points, and write them to the vault project note's ## Posted episodes table and each episode's review\score-log.md next to its GRS. Use when the user types /update-stats, asks for "stats", "numbers", "views", "how did EPx do", "ยอดวิว", when a check point is due, or from the weekly review.
 ---
 

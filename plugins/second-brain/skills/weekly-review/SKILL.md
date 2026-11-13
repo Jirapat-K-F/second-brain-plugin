@@ -1,5 +1,6 @@
 ---
 name: weekly-review
+model: sonnet
 description: Run the weekly quality review of the user's Second Brain Obsidian vault (D:\MySecondBrain) - find broken links, orphan notes, missing properties, stale inbox items, stuck experiments, session stubs and outdated research, apply only safe fixes, and write a review report. Use on the Sunday 19:40 schedule, when the review is overdue and the user agrees, or when the user types /weekly-review or asks to check or clean up the vault.
 ---
 
